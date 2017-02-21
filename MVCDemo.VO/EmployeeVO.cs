@@ -8,6 +8,7 @@ namespace MVCDemo.VO
 {
     public class EmployeeVO : BaseModel, IEmployeeVO
     {
+        //Test
         private string strEmpName;
         private string strGender;
         private string strCity;
